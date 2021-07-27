@@ -1,2 +1,2 @@
 # Primeiro-projeto
-criando meu primeiro porjeto opencv
+criando meu primeiro projeto opencv
